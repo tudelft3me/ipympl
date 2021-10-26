@@ -1,0 +1,9 @@
+recursive-include ipympl/nbextension *.*
+recursive-include ipympl/labextension *.*
+
+recursive-include js *.*
+include LICENSE
+include jupyter-matplotlib.json
+
+include setup.py
+include pyproject.toml
